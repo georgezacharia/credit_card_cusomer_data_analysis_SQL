@@ -96,7 +96,7 @@ Examines the relationship between credit limit and activation rate within 30 day
   - Lower credit limits or a credit limit of 1439.0 result in lower or zero activation rates.
 - **Implication**: Offering higher credit limits may incentivize quicker activation of credit cards, potentially increasing customer engagement.
 
-  ### 9. 👴 Credit Card Category Distribution Across Age Groups
+### 9. 👴 Credit Card Category Distribution Across Age Groups
 Analyzes the distribution of credit card categories among different age groups.
 - **Findings**: 
   - The "Blue" card is most popular across all age groups, with the highest usage among ages 36-45 and 46-55.
